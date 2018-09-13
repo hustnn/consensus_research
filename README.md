@@ -1,2 +1,2 @@
-# consensus_research
-Research of the state-of-the-art consensus algorithm
+# Some resources
+https://docs.decred.org/research/overview/
